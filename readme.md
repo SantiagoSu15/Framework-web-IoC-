@@ -52,8 +52,7 @@ mvn -version
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/SantiagoSu15/Microframework-Web.git
-cd Microframework-Web
+git clone https://github.com/SantiagoSu15/Framework-web-IoC-.git
 ```
 
 ### 2. Compilar
@@ -138,6 +137,24 @@ revisar readme
 
 # Evidencia Servidor de aplicaciones AWS
 
+**Conexion y ejecucion desde git bash**
+![Conexion](/docs/img.png)
+
+**Endpoins**
+![Endpoints](/docs/img_1.png)
+
+![Endpoints](/docs/img_2.png)
+
+![Endpoints](/docs/img_3.png)
+
+![Endpoints](/docs/img_4.png)
+
+![Endpoints](/docs/img_5.png)
+
+![Endpoints](/docs/img_7.png)
+
+
+![Endpoints](/docs/img_6.png)
 
 ## Construido con
 
