@@ -1,7 +1,10 @@
-package org.example;
+package org.example.Util;
+
+import org.example.Anotaciones.Test;
 
 public class Foo {
-    @Test public static void m1() { }
+    @Test
+    public static void m1() { }
     public static void m2() { }
     @Test public static void m3() {
         throw new RuntimeException("Boom");
